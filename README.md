@@ -15,7 +15,7 @@ A realtor agency in Arizona was interested in creating predictive model capable 
 * **Factor Relationship Analysis**: look into the relationships between the factors themselves in the dataset
 ---
 
-##Technologies Used 📡
+## Technologies Used 📡
 ---
 * **Microsoft Excel**: housed the dataset for the project, used for data cleaning and summary statistics
 * **SAS Enterprise Miner**: used to create the decision tree predictive model and gain insight into the dataset factors
